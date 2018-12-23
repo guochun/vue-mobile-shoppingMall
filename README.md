@@ -1,29 +1,10 @@
-# vue-mobile-shop
+# 简单前后端分离购物商城项目
 
-## Project setup
-```
-npm install
-```
+## 技术栈
+- vue-cli 3.0
+- vue 全家桶
+- Vant组件库
+- koa
+- mongdb
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
