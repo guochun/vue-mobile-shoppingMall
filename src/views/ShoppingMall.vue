@@ -11,20 +11,15 @@
 </template>
 
 <script>
-export default {
-  name: 'ShoppingMall',
-  data () {
-    return {
-      msg: 'ShoppingMall'
-    }
+  export default {
+    name: 'ShoppingMall'
   }
-}
 </script>
 
 <style scoped>
   .search-bar {
     height: 2.2rem;
-    background: #e5017d;
     line-height: 2.2rem;
+    background: #e5017d;
   }
 </style>
